@@ -15,9 +15,10 @@ To use the script, simply provide the website domain as an argument:
 
 ```bash
 ./check_ssl_expiration.sh example.com
+```
 If the certificate is expired, the script will notify you with the expiration date. Otherwise, it will show the valid expiration date. 🌟
 
-Requirements 📦
+## Requirements 📦
 openssl command-line tool (typically pre-installed on most Linux systems)
 
 Bash shell (Linux/macOS)
@@ -25,8 +26,7 @@ Bash shell (Linux/macOS)
 Example Output 📊
 The expiration date of the SSL certificate for the website example.com is Dec 31 23:59:59 2025 GMT.
 
-The expiration date of the SSL certificate for the website example.com is Dec 31 23:59:59 2025 GMT.
-License 📄
+## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Author ✍️
