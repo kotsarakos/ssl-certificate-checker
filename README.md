@@ -23,12 +23,12 @@ openssl command-line tool (typically pre-installed on most Linux systems)
 
 Bash shell (Linux/macOS)
 
-Example Output 📊
+## Example Output 📊
 The expiration date of the SSL certificate for the website example.com is Dec 31 23:59:59 2025 GMT.
 
 ## License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Author ✍️
+## Author ✍️
 Konstantinos Kotsaras
 
